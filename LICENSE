@@ -1,0 +1,44 @@
+Business Source License 1.1 (BUSL-1.1)
+
+Licensor:        Weslyn Whitehead Jr. / AsAManThinks Research
+Licensed Work:   AAMT Mathematics Visualizer (and the MaiiaM Alchemist codebase)
+                 Copyright (c) 2026 Weslyn Whitehead Jr. / AsAManThinks Research
+Patent status:   Patent pending (USPTO #64/040,504, #64/040,509, #64/040,513)
+
+Additional Use Grant:
+    You may use, copy, modify, and create derivative works of the Licensed Work
+    for non-production purposes — including research, study, evaluation, and
+    internal (non-customer-facing) use — at no charge. Any production use, or any
+    use embedded in a commercial product or hosted/network service offered to
+    third parties, requires a separate commercial license from the Licensor.
+
+Change Date:     2030-06-01
+Change License:  Apache License, Version 2.0
+
+----------------------------------------------------------------------
+
+This work is provided under the terms of the Business Source License 1.1.
+The full canonical text of the license is published by MariaDB Corporation Ab
+at: https://mariadb.com/bsl11/
+
+Summary of the standard BUSL-1.1 terms (the canonical text governs):
+
+  * The Licensor grants you the rights above. Use outside the Additional Use
+    Grant, before the Change Date, requires a commercial license.
+
+  * On the Change Date, the terms of the Change License (Apache 2.0) apply to
+    that version of the Licensed Work, and the BUSL restrictions end.
+
+  * You must conspicuously display this License on each original or modified
+    copy of the Licensed Work. If you receive the Licensed Work from a third
+    party, the terms of this License still apply.
+
+  * THE LICENSED WORK IS PROVIDED "AS IS". THE LICENSOR DISCLAIMS ALL
+    WARRANTIES, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES
+    OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT,
+    TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+For a commercial license, contact: weslyn@asamanthinks.com
+
+Note: This LICENSE covers the CODE only. The accompanying research papers are
+licensed separately under Creative Commons Attribution 4.0 (CC BY 4.0).

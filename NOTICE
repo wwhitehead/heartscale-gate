@@ -1,0 +1,16 @@
+heartscale-gate
+© 2026 Weslyn Whitehead Jr. / AsAManThinks Research.
+
+This repository implements the HeartScale (WP-02) per-token coherence gate as a
+drop-in transformers LogitsProcessor. The closed-form HeartScale mathematics —
+the harmonic-mean safety geometry and the Ma'at "evenly yoked" predicate — is
+published WP-series math and also runs in the public AAMT Mathematics Visualizer.
+
+The production cognitive-state estimator that supplies the resonance index (RI)
+and breath coherence (BC) from a live TERA/Vortex projection in the full MaiiaM
+Alchemist system is patent-pending and is NOT included here; in this repo RI and
+BC are simple [0,1] knobs (or a single `capacity`).
+
+Code: Business Source License 1.1 (see LICENSE).
+Papers: CC BY 4.0.
+Patent pending: USPTO #64/040,504, #64/040,509, #64/040,513.

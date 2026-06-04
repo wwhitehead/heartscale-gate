@@ -1,0 +1,8 @@
+# Core gate (the LogitsProcessor only needs torch)
+torch>=2.0
+
+# Demo / before-after (loads a small model)
+transformers>=4.40
+
+# Dev
+pytest>=7

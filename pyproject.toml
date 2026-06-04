@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "heartscale-gate"
+version = "0.1.0"
+description = "A drop-in Ma'at coherence gate (HeartScale / WP-02) for language-model decoding — one LogitsProcessor for any 🤗 transformers causal LM."
+authors = [{ name = "Weslyn Whitehead Jr.", email = "weslyn@asamanthinks.com" }]
+license = { text = "BUSL-1.1" }
+requires-python = ">=3.9"
+dependencies = ["torch>=2.0"]
+
+[project.optional-dependencies]
+demo = ["transformers>=4.40"]
+dev = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://asamanthinks.com/alchemist/visualizer"
+Reproduce = "https://github.com/wwhitehead/aamt-reproduce"
+Demo = "https://huggingface.co/spaces/docwes1/aamt-math-viz-demo"
+
+[tool.setuptools]
+packages = ["heartscale_gate"]
