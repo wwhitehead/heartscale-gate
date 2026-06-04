@@ -7,7 +7,12 @@ fine-tuning, no retraining, runs on a laptop.**
 
 [![Tests](https://img.shields.io/badge/unit_tests-9%2F9_passing-22c55e)](./tests/test_processor.py)
 [![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-C49A26)](./LICENSE)
+[![Live demo](https://img.shields.io/badge/🤗_live_demo-Hugging_Face_Space-eab308)](https://huggingface.co/spaces/docwes1/heartscale-gate)
 [![Verify the math](https://img.shields.io/badge/verify_the_math-aamt--reproduce-6366f1)](https://github.com/wwhitehead/aamt-reproduce)
+
+![HeartScale capacity sweep — same prompt, same seed, only the budget changes](./docs/heartscale_sweep.png)
+
+> **Try it live (no setup):** [interactive Space →](https://huggingface.co/spaces/docwes1/heartscale-gate) · drag the capacity slider and watch the model steer.
 
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
