@@ -1,4 +1,5 @@
 torch>=2.0
 transformers>=4.40
-gradio>=4.0
+gradio>=5.0,<6.0
+huggingface_hub>=0.24
 heartscale-gate @ git+https://github.com/wwhitehead/heartscale-gate.git
